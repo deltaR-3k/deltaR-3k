@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I am an undergraduate student majoring in computer science at Northwestern Polytechnical University, Xi'an.
+- 🌱 I’m currently studying deep learning and attempting to conduct interdisciplinary research.
+- 👯 I’m seeking fellow students at Northwestern Polytechnical University to join me in maintaining the unofficial forum [Xinghai Yunduan](npuer.life) and the course evaluation website [NPU Course Evaluation Community](https://c.npuer.life).
+- 📫 How to reach me: deltar_chen@outlook.com
+
 <!--
 **deltaR-3k/deltaR-3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
