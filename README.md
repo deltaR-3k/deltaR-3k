@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I am an undergraduate student majoring in computer science at Northwestern Polytechnical University, Xi'an.
+- 🔭 I'm an undergraduate student majoring in computer science at Northwestern Polytechnical University, Xi'an.
 - 🌱 I’m currently doing research in MLsys.
-- 👯 I’m seeking fellow students at NPU to join me in maintaining the unofficial forum [Xinghai Yunduan](npu.moe).
+- 👯 I’m seeking fellow students at NPU to join me in maintaining the NPU's unofficial forum [Xinghai Yunduan](https://npu.moe).
 - 📫 How to reach me: imchensp@gmail.com
 
 <!--
